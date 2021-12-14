@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sankhaBA
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning front end web development
 
 <!---
 sankhaBA/sankhaBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
