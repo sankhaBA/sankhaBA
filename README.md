@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankhaba" alt="sankhaba" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS Frameworks, Mathematics and Fundamentals for AI and Project Management**
+- 🌱 I’m currently working with **Web and mobile app development and Project Management**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sankha-bimsara-ambeypitiya-431975202/](https://www.linkedin.com/in/sankha-bimsara-ambeypitiya-431975202/)
-
-- 💬 Ask me about **React, Express JS, SQL, Project Management**
+- 💬 Ask me about **React, Next, Express JS, SQL, Project Management**
 
 - 📫 How to reach me **sankha.b21@gmail.com**
 
