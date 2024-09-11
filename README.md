@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankhaba" alt="sankhaba" /></a> </p>
 
-- 🌱 I’m currently working with **Web and mobile app development and Project Management**
+- 🌱 Expertise in **Web and mobile app development and Team Leading**
 
-- 💬 Ask me about **React, Next, Express JS, SQL, Project Management**
+- 💬 Ask me about **React, Next, Express, Java, SQL**
 
-- 📫 How to reach me **sankha.b21@gmail.com**
+- 📫 Reach me using **sankha.b21@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sankha-bimsara-ambeypitiya-431975202/](https://www.linkedin.com/in/sankha-bimsara-ambeypitiya-431975202/)
 
