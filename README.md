@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankhaba&label=Profile%20views&color=0e75b6&style=flat" alt="sankhaba" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankhaba" alt="sankhaba" /></a> </p>
-
 - 🌱 Expertise in **Web, Cloud, Mobile development and team leading**
 
 - 💬 Ask me about **React, Next, Node, Azure, Java, SQL**
