@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sankha Bimsara</h1>
-<h3 align="center">A passionate full stack engineer from Sri Lanka</h3>
+<h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankhaba&label=Profile%20views&color=0e75b6&style=flat" alt="sankhaba" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankhaba" alt="sankhaba" /></a> </p>
 
-- 🌱 Expertise in **Web and mobile app development and Team Leading**
+- 🌱 Expertise in **Web, Cloud, Mobile development and team leading**
 
-- 💬 Ask me about **React, Next, Express, Java, SQL**
+- 💬 Ask me about **React, Next, Node, Azure, Java, SQL**
 
 - 📫 Reach me using **sankha.b21@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sankha-bimsara-ambeypitiya-431975202/](https://www.linkedin.com/in/sankha-bimsara-ambeypitiya-431975202/)
-
-- ⚡ I'm interested as a hobby in **Cricket**
+- 📄 Have a look on my career via [https://www.linkedin.com/in/sankha-bimsara-ambeypitiya-431975202/](https://www.linkedin.com/in/sankha-bimsara-ambeypitiya-431975202/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
